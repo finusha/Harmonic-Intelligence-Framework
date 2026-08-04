@@ -1,4 +1,3 @@
-
 name: Harmonic Intelligence Framework
 
 on:
@@ -35,8 +34,8 @@ jobs:
 
       - name: Commit Changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "finusha"
+          git config user.email "56151383+finusha@users.noreply.github.com"
 
           git add README.md latest.json archive/
 
