@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T12:30:06.110324Z",
+  "generated_at": "2026-08-08T18:24:36.363738Z",
   "tracks": [
     {
       "name": "Petal",
       "duration": "184",
-      "playcount": "907931",
-      "listeners": "106371",
+      "playcount": "984533",
+      "listeners": "112186",
       "mbid": "0f8c8467-a662-4fb9-af1b-5f6c1df9e276",
       "url": "https://www.last.fm/music/Ariana+Grande/_/Petal",
       "streamable": {
@@ -38,9 +38,9 @@
     },
     {
       "name": "hate that i made you love me",
-      "duration": "198",
-      "playcount": "13172770",
-      "listeners": "742358",
+      "duration": "197",
+      "playcount": "13230132",
+      "listeners": "743926",
       "mbid": "ac849ae0-384b-4f6d-bbd1-cc1fdf42f6e7",
       "url": "https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me",
       "streamable": {
@@ -74,8 +74,8 @@
     {
       "name": "Kiss Me",
       "duration": "219",
-      "playcount": "677623",
-      "listeners": "92703",
+      "playcount": "731049",
+      "listeners": "95636",
       "mbid": "94a6f700-68d6-4163-887d-0afb66c67701",
       "url": "https://www.last.fm/music/Ariana+Grande/_/Kiss+Me",
       "streamable": {
@@ -109,9 +109,9 @@
     {
       "name": "Stay",
       "duration": "148",
-      "playcount": "585012",
-      "listeners": "87699",
-      "mbid": "d3d289c4-9975-49b7-8ae8-9ee4c6202dcb",
+      "playcount": "629656",
+      "listeners": "90570",
+      "mbid": "098af637-d96a-4785-945c-03a134c08816",
       "url": "https://www.last.fm/music/Ariana+Grande/_/Stay",
       "streamable": {
         "#text": "0",
@@ -144,8 +144,8 @@
     {
       "name": "oh well",
       "duration": "196",
-      "playcount": "611670",
-      "listeners": "84836",
+      "playcount": "660545",
+      "listeners": "87684",
       "mbid": "90f6d4c4-a67c-4a71-a483-d3a7f5db9fa1",
       "url": "https://www.last.fm/music/Ariana+Grande/_/oh+well",
       "streamable": {
@@ -179,8 +179,8 @@
     {
       "name": "big feelings",
       "duration": "173",
-      "playcount": "569314",
-      "listeners": "82019",
+      "playcount": "615029",
+      "listeners": "84996",
       "mbid": "3f175adf-ef5d-4c4d-9d07-5364eb1ddd86",
       "url": "https://www.last.fm/music/Ariana+Grande/_/big+feelings",
       "streamable": {
@@ -214,8 +214,8 @@
     {
       "name": "Like I Do",
       "duration": "167",
-      "playcount": "638384",
-      "listeners": "80459",
+      "playcount": "689239",
+      "listeners": "83793",
       "mbid": "6d000402-784a-4ea4-8928-a2ca6897a941",
       "url": "https://www.last.fm/music/Ariana+Grande/_/Like+I+Do",
       "streamable": {
@@ -249,8 +249,8 @@
     {
       "name": "freak",
       "duration": "199",
-      "playcount": "553716",
-      "listeners": "80274",
+      "playcount": "595414",
+      "listeners": "82516",
       "mbid": "a7ffafcf-93b1-4363-8ee4-f7e7a34bf106",
       "url": "https://www.last.fm/music/Ariana+Grande/_/freak",
       "streamable": {
@@ -282,45 +282,10 @@
       ]
     },
     {
-      "name": "warning signs (interlude)",
-      "duration": "77",
-      "playcount": "569479",
-      "listeners": "75984",
-      "mbid": "e7f0b0ba-09c5-4946-8d5c-4592d3caa09e",
-      "url": "https://www.last.fm/music/Ariana+Grande/_/warning+signs+(interlude)",
-      "streamable": {
-        "#text": "0",
-        "fulltrack": "0"
-      },
-      "artist": {
-        "name": "Ariana Grande",
-        "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
-        "url": "https://www.last.fm/music/Ariana+Grande"
-      },
-      "image": [
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "small"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "medium"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "large"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "extralarge"
-        }
-      ]
-    },
-    {
       "name": "bad thing (bunny hop)",
       "duration": "208",
-      "playcount": "581423",
-      "listeners": "75937",
+      "playcount": "627682",
+      "listeners": "78778",
       "mbid": "1524188c-0102-4a1a-985e-cf0a18036ca3",
       "url": "https://www.last.fm/music/Ariana+Grande/_/bad+thing+(bunny+hop)",
       "streamable": {
@@ -354,8 +319,8 @@
     {
       "name": "NeVeR gEt OvEr Me",
       "duration": "228",
-      "playcount": "505346",
-      "listeners": "75658",
+      "playcount": "545725",
+      "listeners": "78465",
       "mbid": "01e51db5-bd00-447d-bf6b-bc5170ce4222",
       "url": "https://www.last.fm/music/Ariana+Grande/_/NeVeR+gEt+OvEr+Me",
       "streamable": {
@@ -387,11 +352,46 @@
       ]
     },
     {
+      "name": "warning signs (interlude)",
+      "duration": "77",
+      "playcount": "617792",
+      "listeners": "77921",
+      "mbid": "e7f0b0ba-09c5-4946-8d5c-4592d3caa09e",
+      "url": "https://www.last.fm/music/Ariana+Grande/_/warning+signs+(interlude)",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "artist": {
+        "name": "Ariana Grande",
+        "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+        "url": "https://www.last.fm/music/Ariana+Grande"
+      },
+      "image": [
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    {
       "name": "Nowhere, Nobody",
       "duration": "172",
-      "playcount": "502882",
-      "listeners": "71805",
-      "mbid": "d2e6623a-d733-477e-afb5-ac0234333f8f",
+      "playcount": "540763",
+      "listeners": "74708",
+      "mbid": "0b2ed3b7-3568-40fe-a143-94fdda8b02bd",
       "url": "https://www.last.fm/music/Ariana+Grande/_/Nowhere,+Nobody",
       "streamable": {
         "#text": "0",
@@ -424,8 +424,8 @@
     {
       "name": "the cure",
       "duration": "297",
-      "playcount": "13263599",
-      "listeners": "821821",
+      "playcount": "13294594",
+      "listeners": "822811",
       "mbid": "0f0097d9-5e12-4c76-8fbb-3409641c0bb4",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure",
       "streamable": {
@@ -459,8 +459,8 @@
     {
       "name": "stupid song",
       "duration": "209",
-      "playcount": "9616769",
-      "listeners": "710427",
+      "playcount": "9649539",
+      "listeners": "711422",
       "mbid": "4ae47768-e426-43fe-85c9-1ddbea12d1c7",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song",
       "streamable": {
@@ -494,8 +494,8 @@
     {
       "name": "Ain't In LA",
       "duration": "184",
-      "playcount": "810235",
-      "listeners": "90457",
+      "playcount": "855961",
+      "listeners": "94252",
       "mbid": "d14a2392-c6cc-439c-a576-0a1ad3095660",
       "url": "https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA",
       "streamable": {
@@ -529,8 +529,8 @@
     {
       "name": "Earrings",
       "duration": "153",
-      "playcount": "15427178",
-      "listeners": "1125207",
+      "playcount": "15446519",
+      "listeners": "1126605",
       "mbid": "8b4a0623-0d13-4361-8e5e-024b9d820fbd",
       "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
       "streamable": {
@@ -564,8 +564,8 @@
     {
       "name": "Camera",
       "duration": "262",
-      "playcount": "1080900",
-      "listeners": "172719",
+      "playcount": "1105772",
+      "listeners": "174631",
       "mbid": "147f6008-44ca-41da-8215-4f1685b57931",
       "url": "https://www.last.fm/music/Charli+xcx/_/Camera",
       "streamable": {
@@ -599,8 +599,8 @@
     {
       "name": "drop dead",
       "duration": "225",
-      "playcount": "16433963",
-      "listeners": "900537",
+      "playcount": "16455207",
+      "listeners": "901147",
       "mbid": "2814c482-9ee2-46fa-9e49-0c883e60e0cc",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
       "streamable": {
@@ -632,20 +632,20 @@
       ]
     },
     {
-      "name": "Animal",
-      "duration": "158",
-      "playcount": "739071",
-      "listeners": "90383",
-      "mbid": "d2c85680-63a7-425d-a8d9-5d992c4a983a",
-      "url": "https://www.last.fm/music/KATSEYE/_/Animal",
+      "name": "BRAND NEW CHANEL$",
+      "duration": "238",
+      "playcount": "618811",
+      "listeners": "53232",
+      "mbid": "785aca96-d89e-40d0-8d6d-0555f5b4edeb",
+      "url": "https://www.last.fm/music/Slayyyter/_/BRAND+NEW+CHANEL$",
       "streamable": {
         "#text": "0",
         "fulltrack": "0"
       },
       "artist": {
-        "name": "KATSEYE",
-        "mbid": "abbf7d85-9a7f-4a6c-80bd-bf71f2c7d520",
-        "url": "https://www.last.fm/music/KATSEYE"
+        "name": "Slayyyter",
+        "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+        "url": "https://www.last.fm/music/Slayyyter"
       },
       "image": [
         {
@@ -667,20 +667,20 @@
       ]
     },
     {
-      "name": "BRAND NEW CHANEL$",
-      "duration": "238",
-      "playcount": "562866",
-      "listeners": "48839",
-      "mbid": "785aca96-d89e-40d0-8d6d-0555f5b4edeb",
-      "url": "https://www.last.fm/music/Slayyyter/_/BRAND+NEW+CHANEL$",
+      "name": "maggots for brains",
+      "duration": "240",
+      "playcount": "6947741",
+      "listeners": "583169",
+      "mbid": "235e0be9-8e0f-463a-96d9-aec2bc452370",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains",
       "streamable": {
         "#text": "0",
         "fulltrack": "0"
       },
       "artist": {
-        "name": "Slayyyter",
-        "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
-        "url": "https://www.last.fm/music/Slayyyter"
+        "name": "Olivia Rodrigo",
+        "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+        "url": "https://www.last.fm/music/Olivia+Rodrigo"
       },
       "image": [
         {
