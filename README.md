@@ -8,26 +8,26 @@ Generated: 2026-08-15
 
 | Rank | Track | Artist | Listeners |
 |------|-------|--------|----------|
-| 1 | Petal | Ariana Grande | 133880 |
-| 2 | hate that i made you love me | Ariana Grande | 750420 |
-| 3 | the cure | Olivia Rodrigo | 828687 |
-| 4 | Earrings | Malcolm Todd | 1134104 |
-| 5 | stupid song | Olivia Rodrigo | 716718 |
-| 6 | Ain't In LA | ADÉLA | 112554 |
-| 7 | drop dead | Olivia Rodrigo | 904926 |
-| 8 | maggots for brains | Olivia Rodrigo | 586874 |
-| 9 | expectations | Olivia Rodrigo | 559412 |
-| 10 | Stateside + Zara Larsson | PinkPantheress | 1417692 |
-| 11 | BRAND NEW CHANEL$ | Slayyyter | 67899 |
-| 12 | Like I Do | Ariana Grande | 94203 |
-| 13 | Kiss Me | Ariana Grande | 104572 |
-| 14 | oh well | Ariana Grande | 97130 |
-| 15 | Stay | Ariana Grande | 99700 |
-| 16 | my way | Olivia Rodrigo | 581182 |
-| 17 | big feelings | Ariana Grande | 93982 |
-| 18 | Camera | Charli xcx | 181772 |
-| 19 | u + me = <3 | Olivia Rodrigo | 568308 |
-| 20 | honeybee | Olivia Rodrigo | 647319 |
+| 1 | Petal | Ariana Grande | 136063 |
+| 2 | the cure | Olivia Rodrigo | 829833 |
+| 3 | hate that i made you love me | Ariana Grande | 751322 |
+| 4 | Earrings | Malcolm Todd | 1135245 |
+| 5 | stupid song | Olivia Rodrigo | 717522 |
+| 6 | Ain't In LA | ADÉLA | 115615 |
+| 7 | drop dead | Olivia Rodrigo | 905532 |
+| 8 | maggots for brains | Olivia Rodrigo | 587457 |
+| 9 | expectations | Olivia Rodrigo | 560203 |
+| 10 | Stateside + Zara Larsson | PinkPantheress | 1418306 |
+| 11 | BRAND NEW CHANEL$ | Slayyyter | 70652 |
+| 12 | Animal | KATSEYE | 108438 |
+| 13 | Like I Do | Ariana Grande | 95429 |
+| 14 | my way | Olivia Rodrigo | 581681 |
+| 15 | Oh Yeah? | Steve Lacy | 162849 |
+| 16 | Kiss Me | Ariana Grande | 105541 |
+| 17 | u + me = <3 | Olivia Rodrigo | 568873 |
+| 18 | honeybee | Olivia Rodrigo | 647854 |
+| 19 | oh well | Ariana Grande | 98084 |
+| 20 | Camera | Charli xcx | 182880 |
 
 
 ---
