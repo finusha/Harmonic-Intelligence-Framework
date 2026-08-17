@@ -4,30 +4,30 @@ An autonomous framework that monitors global music trends using the Last.fm API.
 
 ## Latest Snapshot
 
-Generated: 2026-08-16
+Generated: 2026-08-17
 
 | Rank | Track | Artist | Listeners |
 |------|-------|--------|----------|
-| 1 | Petal | Ariana Grande | 136063 |
-| 2 | the cure | Olivia Rodrigo | 829833 |
-| 3 | hate that i made you love me | Ariana Grande | 751322 |
-| 4 | Earrings | Malcolm Todd | 1135245 |
-| 5 | stupid song | Olivia Rodrigo | 717522 |
-| 6 | Ain't In LA | ADÉLA | 115615 |
-| 7 | drop dead | Olivia Rodrigo | 905532 |
-| 8 | maggots for brains | Olivia Rodrigo | 587457 |
-| 9 | expectations | Olivia Rodrigo | 560203 |
-| 10 | Stateside + Zara Larsson | PinkPantheress | 1418306 |
-| 11 | BRAND NEW CHANEL$ | Slayyyter | 70652 |
-| 12 | Animal | KATSEYE | 108438 |
-| 13 | Like I Do | Ariana Grande | 95429 |
-| 14 | my way | Olivia Rodrigo | 581681 |
-| 15 | Oh Yeah? | Steve Lacy | 162849 |
-| 16 | Kiss Me | Ariana Grande | 105541 |
-| 17 | u + me = <3 | Olivia Rodrigo | 568873 |
-| 18 | honeybee | Olivia Rodrigo | 647854 |
-| 19 | oh well | Ariana Grande | 98084 |
-| 20 | Camera | Charli xcx | 182880 |
+| 1 | Petal | Ariana Grande | 138005 |
+| 2 | the cure | Olivia Rodrigo | 830843 |
+| 3 | hate that i made you love me | Ariana Grande | 752177 |
+| 4 | Earrings | Malcolm Todd | 1136338 |
+| 5 | stupid song | Olivia Rodrigo | 718403 |
+| 6 | Ain't In LA | ADÉLA | 118366 |
+| 7 | drop dead | Olivia Rodrigo | 906163 |
+| 8 | maggots for brains | Olivia Rodrigo | 587996 |
+| 9 | expectations | Olivia Rodrigo | 560940 |
+| 10 | Stateside + Zara Larsson | PinkPantheress | 1418963 |
+| 11 | Animal | KATSEYE | 111304 |
+| 12 | BRAND NEW CHANEL$ | Slayyyter | 72815 |
+| 13 | Oh Yeah? | Steve Lacy | 166506 |
+| 14 | my way | Olivia Rodrigo | 582200 |
+| 15 | u + me = <3 | Olivia Rodrigo | 569394 |
+| 16 | Lost Boys | Phoebe Bridgers | 235445 |
+| 17 | Like I Do | Ariana Grande | 96347 |
+| 18 | Loser | Tame Impala | 583829 |
+| 19 | honeybee | Olivia Rodrigo | 648417 |
+| 20 | Creep | Radiohead | 4198994 |
 
 
 ---
