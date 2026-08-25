@@ -4,30 +4,30 @@ An autonomous framework that monitors global music trends using the Last.fm API.
 
 ## Latest Snapshot
 
-Generated: 2026-08-24
+Generated: 2026-08-25
 
 | Rank | Track | Artist | Listeners |
 |------|-------|--------|----------|
-| 1 | the cure | Olivia Rodrigo | 837893 |
-| 2 | Earrings | Malcolm Todd | 1146251 |
-| 3 | stupid song | Olivia Rodrigo | 724415 |
-| 4 | Ain't In LA | ADÉLA | 135680 |
-| 5 | hate that i made you love me | Ariana Grande | 757857 |
-| 6 | Petal | Ariana Grande | 149300 |
-| 7 | drop dead | Olivia Rodrigo | 910674 |
-| 8 | HOOTIE FRUTTI | KATSEYE | 65716 |
-| 9 | Oh Yeah? | Steve Lacy | 189483 |
-| 10 | Lost Boys | Phoebe Bridgers | 251830 |
-| 11 | maggots for brains | Olivia Rodrigo | 592642 |
-| 12 | The Governor’s Waltz | Phoebe Bridgers | 65945 |
-| 13 | Kill Me | Phoebe Bridgers | 67210 |
-| 14 | expectations | Olivia Rodrigo | 566190 |
-| 15 | BRAND NEW CHANEL$ | Slayyyter | 86777 |
-| 16 | Bobby | Phoebe Bridgers | 64482 |
-| 17 | Stateside + Zara Larsson | PinkPantheress | 1423471 |
-| 18 | Loser | Tame Impala | 601971 |
-| 19 | The Outside | Phoebe Bridgers | 68614 |
-| 20 | Animal | KATSEYE | 123866 |
+| 1 | the cure | Olivia Rodrigo | 838794 |
+| 2 | Earrings | Malcolm Todd | 1147702 |
+| 3 | stupid song | Olivia Rodrigo | 725237 |
+| 4 | Ain't In LA | ADÉLA | 137815 |
+| 5 | hate that i made you love me | Ariana Grande | 758618 |
+| 6 | Petal | Ariana Grande | 150651 |
+| 7 | drop dead | Olivia Rodrigo | 911282 |
+| 8 | Oh Yeah? | Steve Lacy | 192424 |
+| 9 | HOOTIE FRUTTI | KATSEYE | 68791 |
+| 10 | maggots for brains | Olivia Rodrigo | 593265 |
+| 11 | expectations | Olivia Rodrigo | 566874 |
+| 12 | Stateside + Zara Larsson | PinkPantheress | 1424142 |
+| 13 | BRAND NEW CHANEL$ | Slayyyter | 88321 |
+| 14 | Loser | Tame Impala | 604214 |
+| 15 | The Governor’s Waltz | Phoebe Bridgers | 68068 |
+| 16 | Lost Boys | Phoebe Bridgers | 252910 |
+| 17 | Kill Me | Phoebe Bridgers | 69075 |
+| 18 | Bobby | Phoebe Bridgers | 66099 |
+| 19 | The Outside | Phoebe Bridgers | 69984 |
+| 20 | Animal | KATSEYE | 125206 |
 
 
 ---
