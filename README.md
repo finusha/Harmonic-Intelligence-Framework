@@ -4,7 +4,7 @@ An autonomous framework that monitors global music trends using the Last.fm API.
 
 ## Latest Snapshot
 
-Generated: 2026-08-26
+Generated: 2026-08-27
 
 | Rank | Track | Artist | Listeners |
 |------|-------|--------|----------|
