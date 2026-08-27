@@ -8,26 +8,26 @@ Generated: 2026-08-27
 
 | Rank | Track | Artist | Listeners |
 |------|-------|--------|----------|
-| 1 | the cure | Olivia Rodrigo | 840732 |
-| 2 | Earrings | Malcolm Todd | 1150715 |
-| 3 | stupid song | Olivia Rodrigo | 727066 |
-| 4 | Ain't In LA | ADÉLA | 142472 |
-| 5 | hate that i made you love me | Ariana Grande | 760050 |
-| 6 | drop dead | Olivia Rodrigo | 912584 |
-| 7 | Petal | Ariana Grande | 153426 |
-| 8 | maggots for brains | Olivia Rodrigo | 594714 |
-| 9 | HOOTIE FRUTTI | KATSEYE | 74750 |
-| 10 | Oh Yeah? | Steve Lacy | 198100 |
-| 11 | expectations | Olivia Rodrigo | 568405 |
-| 12 | Stateside + Zara Larsson | PinkPantheress | 1425487 |
-| 13 | Loser | Tame Impala | 608406 |
-| 14 | BRAND NEW CHANEL$ | Slayyyter | 91450 |
-| 15 | The Governor’s Waltz | Phoebe Bridgers | 72784 |
-| 16 | my way | Olivia Rodrigo | 587254 |
-| 17 | u + me = <3 | Olivia Rodrigo | 574887 |
-| 18 | honeybee | Olivia Rodrigo | 654480 |
-| 19 | Kill Me | Phoebe Bridgers | 73305 |
-| 20 | Bobby | Phoebe Bridgers | 69710 |
+| 1 | the cure | Olivia Rodrigo | 841688 |
+| 2 | Earrings | Malcolm Todd | 1152150 |
+| 3 | stupid song | Olivia Rodrigo | 727966 |
+| 4 | Ain't In LA | ADÉLA | 144684 |
+| 5 | hate that i made you love me | Ariana Grande | 760726 |
+| 6 | drop dead | Olivia Rodrigo | 913125 |
+| 7 | maggots for brains | Olivia Rodrigo | 595430 |
+| 8 | Petal | Ariana Grande | 154684 |
+| 9 | Oh Yeah? | Steve Lacy | 200394 |
+| 10 | HOOTIE FRUTTI | KATSEYE | 76993 |
+| 11 | expectations | Olivia Rodrigo | 569107 |
+| 12 | Stateside + Zara Larsson | PinkPantheress | 1426148 |
+| 13 | Loser | Tame Impala | 610472 |
+| 14 | BRAND NEW CHANEL$ | Slayyyter | 92860 |
+| 15 | serena joy | Olivia Rodrigo | 47537 |
+| 16 | my way | Olivia Rodrigo | 587752 |
+| 17 | u + me = <3 | Olivia Rodrigo | 575422 |
+| 18 | honeybee | Olivia Rodrigo | 655104 |
+| 19 | The Governor’s Waltz | Phoebe Bridgers | 74462 |
+| 20 | Creep | Radiohead | 4207141 |
 
 
 ---
