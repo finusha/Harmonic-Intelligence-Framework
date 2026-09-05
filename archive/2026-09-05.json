@@ -1,46 +1,11 @@
 {
-  "generated_at": "2026-09-05T14:17:56.133549Z",
+  "generated_at": "2026-09-05T19:44:54.694455Z",
   "tracks": [
-    {
-      "name": "the cure",
-      "duration": "297",
-      "playcount": "14164346",
-      "listeners": "850560",
-      "mbid": "0f0097d9-5e12-4c76-8fbb-3409641c0bb4",
-      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure",
-      "streamable": {
-        "#text": "0",
-        "fulltrack": "0"
-      },
-      "artist": {
-        "name": "Olivia Rodrigo",
-        "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
-        "url": "https://www.last.fm/music/Olivia+Rodrigo"
-      },
-      "image": [
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "small"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "medium"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "large"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "extralarge"
-        }
-      ]
-    },
     {
       "name": "Ain't In LA",
       "duration": "184",
-      "playcount": "2005987",
-      "listeners": "164446",
+      "playcount": "2089752",
+      "listeners": "169794",
       "mbid": "266f1d7d-f524-4d7a-9fe2-fd20eb87d714",
       "url": "https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA",
       "streamable": {
@@ -72,10 +37,45 @@
       ]
     },
     {
+      "name": "the cure",
+      "duration": "297",
+      "playcount": "14196377",
+      "listeners": "851746",
+      "mbid": "0f0097d9-5e12-4c76-8fbb-3409641c0bb4",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "artist": {
+        "name": "Olivia Rodrigo",
+        "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+        "url": "https://www.last.fm/music/Olivia+Rodrigo"
+      },
+      "image": [
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    {
       "name": "stupid song",
-      "duration": "209",
-      "playcount": "10472489",
-      "listeners": "735000",
+      "duration": "208",
+      "playcount": "10502180",
+      "listeners": "735944",
       "mbid": "4ae47768-e426-43fe-85c9-1ddbea12d1c7",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song",
       "streamable": {
@@ -109,8 +109,8 @@
     {
       "name": "Earrings",
       "duration": "153",
-      "playcount": "15958902",
-      "listeners": "1161647",
+      "playcount": "15977791",
+      "listeners": "1162779",
       "mbid": "8b4a0623-0d13-4361-8e5e-024b9d820fbd",
       "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
       "streamable": {
@@ -143,9 +143,9 @@
     },
     {
       "name": "hate that i made you love me",
-      "duration": "197",
-      "playcount": "14150938",
-      "listeners": "767141",
+      "duration": "198",
+      "playcount": "14177799",
+      "listeners": "767983",
       "mbid": "ac849ae0-384b-4f6d-bbd1-cc1fdf42f6e7",
       "url": "https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me",
       "streamable": {
@@ -178,9 +178,9 @@
     },
     {
       "name": "drop dead",
-      "duration": "224",
-      "playcount": "17029047",
-      "listeners": "918251",
+      "duration": "225",
+      "playcount": "17048951",
+      "listeners": "918899",
       "mbid": "2814c482-9ee2-46fa-9e49-0c883e60e0cc",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
       "streamable": {
@@ -214,8 +214,8 @@
     {
       "name": "maggots for brains",
       "duration": "240",
-      "playcount": "7583689",
-      "listeners": "600129",
+      "playcount": "7608685",
+      "listeners": "600834",
       "mbid": "235e0be9-8e0f-463a-96d9-aec2bc452370",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains",
       "streamable": {
@@ -249,8 +249,8 @@
     {
       "name": "expectations",
       "duration": "221",
-      "playcount": "6981377",
-      "listeners": "575083",
+      "playcount": "7002100",
+      "listeners": "575830",
       "mbid": "34dc3721-0f5e-4644-85ff-7183853b2348",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations",
       "streamable": {
@@ -284,8 +284,8 @@
     {
       "name": "Stateside + Zara Larsson",
       "duration": "176",
-      "playcount": "25526408",
-      "listeners": "1431122",
+      "playcount": "25539989",
+      "listeners": "1431916",
       "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
       "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
       "streamable": {
@@ -319,8 +319,8 @@
     {
       "name": "Oh Yeah?",
       "duration": "170",
-      "playcount": "1055732",
-      "listeners": "218420",
+      "playcount": "1074516",
+      "listeners": "221833",
       "mbid": "4633ac63-8179-41cb-a4b0-11631b28ffa1",
       "url": "https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F",
       "streamable": {
@@ -354,8 +354,8 @@
     {
       "name": "Loser",
       "duration": "223",
-      "playcount": "4617380",
-      "listeners": "625609",
+      "playcount": "4634558",
+      "listeners": "627701",
       "mbid": "4923e01c-248b-4000-be85-05b7da4d0d19",
       "url": "https://www.last.fm/music/Tame+Impala/_/Loser",
       "streamable": {
@@ -387,45 +387,10 @@
       ]
     },
     {
-      "name": "Petal",
-      "duration": "184",
-      "playcount": "2079074",
-      "listeners": "162493",
-      "mbid": "0f8c8467-a662-4fb9-af1b-5f6c1df9e276",
-      "url": "https://www.last.fm/music/Ariana+Grande/_/Petal",
-      "streamable": {
-        "#text": "0",
-        "fulltrack": "0"
-      },
-      "artist": {
-        "name": "Ariana Grande",
-        "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
-        "url": "https://www.last.fm/music/Ariana+Grande"
-      },
-      "image": [
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "small"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "medium"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "large"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "extralarge"
-        }
-      ]
-    },
-    {
       "name": "BRAND NEW CHANEL$",
       "duration": "238",
-      "playcount": "1640067",
-      "listeners": "101941",
+      "playcount": "1669601",
+      "listeners": "103190",
       "mbid": "785aca96-d89e-40d0-8d6d-0555f5b4edeb",
       "url": "https://www.last.fm/music/Slayyyter/_/BRAND+NEW+CHANEL$",
       "streamable": {
@@ -457,20 +422,20 @@
       ]
     },
     {
-      "name": "Creep",
-      "duration": "235",
-      "playcount": "63382227",
-      "listeners": "4213422",
-      "mbid": "012e70cd-4ef6-37bf-8ebf-02d318fe5151",
-      "url": "https://www.last.fm/music/Radiohead/_/Creep",
+      "name": "Petal",
+      "duration": "184",
+      "playcount": "2104419",
+      "listeners": "163457",
+      "mbid": "0f8c8467-a662-4fb9-af1b-5f6c1df9e276",
+      "url": "https://www.last.fm/music/Ariana+Grande/_/Petal",
       "streamable": {
         "#text": "0",
         "fulltrack": "0"
       },
       "artist": {
-        "name": "Radiohead",
-        "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-        "url": "https://www.last.fm/music/Radiohead"
+        "name": "Ariana Grande",
+        "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+        "url": "https://www.last.fm/music/Ariana+Grande"
       },
       "image": [
         {
@@ -494,8 +459,8 @@
     {
       "name": "my way",
       "duration": "180",
-      "playcount": "6745050",
-      "listeners": "591836",
+      "playcount": "6761240",
+      "listeners": "592400",
       "mbid": "3f09a28d-1287-4974-a330-c88b0c2cbf57",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/my+way",
       "streamable": {
@@ -527,10 +492,45 @@
       ]
     },
     {
+      "name": "Creep",
+      "duration": "235",
+      "playcount": "63394156",
+      "listeners": "4214138",
+      "mbid": "012e70cd-4ef6-37bf-8ebf-02d318fe5151",
+      "url": "https://www.last.fm/music/Radiohead/_/Creep",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "artist": {
+        "name": "Radiohead",
+        "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "url": "https://www.last.fm/music/Radiohead"
+      },
+      "image": [
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    {
       "name": "505",
       "duration": "293",
-      "playcount": "60801256",
-      "listeners": "3146708",
+      "playcount": "60811680",
+      "listeners": "3147456",
       "mbid": "00d0985d-278e-4a72-b959-fc184a1ce990",
       "url": "https://www.last.fm/music/Arctic+Monkeys/_/505",
       "streamable": {
@@ -562,10 +562,45 @@
       ]
     },
     {
+      "name": "KGB",
+      "duration": "158",
+      "playcount": "3063599",
+      "listeners": "274959",
+      "mbid": "6a5a3342-bea1-4a16-b85c-0cd34d281e27",
+      "url": "https://www.last.fm/music/AD%C3%89LA/_/KGB",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "artist": {
+        "name": "AD\u00c9LA",
+        "mbid": "7a683b8b-0c84-4bbe-a9d9-89bb5b4cfb4a",
+        "url": "https://www.last.fm/music/AD%C3%89LA"
+      },
+      "image": [
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    {
       "name": "honeybee",
       "duration": "223",
-      "playcount": "7176293",
-      "listeners": "659844",
+      "playcount": "7192214",
+      "listeners": "660405",
       "mbid": "a290adb7-59c6-48bd-8fea-38280bacaa63",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/honeybee",
       "streamable": {
@@ -599,8 +634,8 @@
     {
       "name": "u + me = <3",
       "duration": "247",
-      "playcount": "6207765",
-      "listeners": "579497",
+      "playcount": "6224086",
+      "listeners": "580017",
       "mbid": "0656ad23-cf6e-47ae-9b96-d8a1b126138f",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/u+%252B+me+=+%3C3",
       "streamable": {
@@ -634,8 +669,8 @@
     {
       "name": "serena joy",
       "duration": "185",
-      "playcount": "504643",
-      "listeners": "73978",
+      "playcount": "522253",
+      "listeners": "76251",
       "mbid": "34ed29b4-7fb9-4824-a9a1-e784ae3afc93",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/serena+joy",
       "streamable": {
@@ -646,41 +681,6 @@
         "name": "Olivia Rodrigo",
         "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
         "url": "https://www.last.fm/music/Olivia+Rodrigo"
-      },
-      "image": [
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "small"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "medium"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "large"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "extralarge"
-        }
-      ]
-    },
-    {
-      "name": "The Less I Know the Better",
-      "duration": "216",
-      "playcount": "51252237",
-      "listeners": "2902039",
-      "mbid": "0409caa8-c467-4455-8033-05ff8d9345f1",
-      "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better",
-      "streamable": {
-        "#text": "0",
-        "fulltrack": "0"
-      },
-      "artist": {
-        "name": "Tame Impala",
-        "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
-        "url": "https://www.last.fm/music/Tame+Impala"
       },
       "image": [
         {
