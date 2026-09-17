@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T15:56:31.424503Z",
+  "generated_at": "2026-09-17T20:47:33.745478Z",
   "tracks": [
     {
       "name": "NICOLE KIDMAN",
       "duration": "181",
-      "playcount": "947091",
-      "listeners": "116061",
+      "playcount": "1020228",
+      "listeners": "121020",
       "mbid": "8ecd9e89-f2fb-411d-b400-cbb26346c5b9",
       "url": "https://www.last.fm/music/AD%C3%89LA/_/NICOLE+KIDMAN",
       "streamable": {
@@ -38,9 +38,9 @@
     },
     {
       "name": "Ain't In LA",
-      "duration": "184",
-      "playcount": "2682830",
-      "listeners": "202631",
+      "duration": "185",
+      "playcount": "2731421",
+      "listeners": "205581",
       "mbid": "266f1d7d-f524-4d7a-9fe2-fd20eb87d714",
       "url": "https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA",
       "streamable": {
@@ -74,8 +74,8 @@
     {
       "name": "the cure",
       "duration": "297",
-      "playcount": "14536729",
-      "listeners": "862486",
+      "playcount": "14567101",
+      "listeners": "863409",
       "mbid": "0f0097d9-5e12-4c76-8fbb-3409641c0bb4",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure",
       "streamable": {
@@ -109,8 +109,8 @@
     {
       "name": "Earrings",
       "duration": "153",
-      "playcount": "16197069",
-      "listeners": "1176553",
+      "playcount": "16220286",
+      "listeners": "1177934",
       "mbid": "8b4a0623-0d13-4361-8e5e-024b9d820fbd",
       "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings",
       "streamable": {
@@ -144,8 +144,8 @@
     {
       "name": "stupid song",
       "duration": "209",
-      "playcount": "10813616",
-      "listeners": "745127",
+      "playcount": "10843014",
+      "listeners": "745894",
       "mbid": "4ae47768-e426-43fe-85c9-1ddbea12d1c7",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song",
       "streamable": {
@@ -177,10 +177,45 @@
       ]
     },
     {
+      "name": "CRANK 2",
+      "duration": "199",
+      "playcount": "368216",
+      "listeners": "62437",
+      "mbid": "8824b9cd-6a77-43ad-a985-8befd4f85fd7",
+      "url": "https://www.last.fm/music/Slayyyter/_/CRANK+2",
+      "streamable": {
+        "#text": "0",
+        "fulltrack": "0"
+      },
+      "artist": {
+        "name": "Slayyyter",
+        "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+        "url": "https://www.last.fm/music/Slayyyter"
+      },
+      "image": [
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    {
       "name": "hate that i made you love me",
       "duration": "197",
-      "playcount": "14448674",
-      "listeners": "776324",
+      "playcount": "14473173",
+      "listeners": "777120",
       "mbid": "ac849ae0-384b-4f6d-bbd1-cc1fdf42f6e7",
       "url": "https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me",
       "streamable": {
@@ -214,8 +249,8 @@
     {
       "name": "expectations",
       "duration": "221",
-      "playcount": "7217629",
-      "listeners": "584712",
+      "playcount": "7236422",
+      "listeners": "585344",
       "mbid": "34dc3721-0f5e-4644-85ff-7183853b2348",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations",
       "streamable": {
@@ -247,45 +282,10 @@
       ]
     },
     {
-      "name": "CRANK 2",
-      "duration": "199",
-      "playcount": "340397",
-      "listeners": "58784",
-      "mbid": "8824b9cd-6a77-43ad-a985-8befd4f85fd7",
-      "url": "https://www.last.fm/music/Slayyyter/_/CRANK+2",
-      "streamable": {
-        "#text": "0",
-        "fulltrack": "0"
-      },
-      "artist": {
-        "name": "Slayyyter",
-        "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
-        "url": "https://www.last.fm/music/Slayyyter"
-      },
-      "image": [
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "small"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "medium"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "large"
-        },
-        {
-          "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-          "size": "extralarge"
-        }
-      ]
-    },
-    {
       "name": "Stateside + Zara Larsson",
       "duration": "176",
-      "playcount": "25677690",
-      "listeners": "1439270",
+      "playcount": "25691522",
+      "listeners": "1439954",
       "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
       "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
       "streamable": {
@@ -319,8 +319,8 @@
     {
       "name": "maggots for brains",
       "duration": "240",
-      "playcount": "7863641",
-      "listeners": "607362",
+      "playcount": "7886338",
+      "listeners": "607883",
       "mbid": "235e0be9-8e0f-463a-96d9-aec2bc452370",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains",
       "streamable": {
@@ -354,8 +354,8 @@
     {
       "name": "drop dead",
       "duration": "224",
-      "playcount": "17263946",
-      "listeners": "925350",
+      "playcount": "17283156",
+      "listeners": "925873",
       "mbid": "2814c482-9ee2-46fa-9e49-0c883e60e0cc",
       "url": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead",
       "streamable": {
@@ -389,8 +389,8 @@
     {
       "name": "Oh Yeah?",
       "duration": "170",
-      "playcount": "1252825",
-      "listeners": "247692",
+      "playcount": "1267821",
+      "listeners": "249759",
       "mbid": "4633ac63-8179-41cb-a4b0-11631b28ffa1",
       "url": "https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F",
       "streamable": {
@@ -424,8 +424,8 @@
     {
       "name": "KGB",
       "duration": "158",
-      "playcount": "3366194",
-      "listeners": "294258",
+      "playcount": "3388400",
+      "listeners": "295557",
       "mbid": "6a5a3342-bea1-4a16-b85c-0cd34d281e27",
       "url": "https://www.last.fm/music/AD%C3%89LA/_/KGB",
       "streamable": {
@@ -459,8 +459,8 @@
     {
       "name": "Loser",
       "duration": "223",
-      "playcount": "4813129",
-      "listeners": "648025",
+      "playcount": "4828459",
+      "listeners": "649682",
       "mbid": "4923e01c-248b-4000-be85-05b7da4d0d19",
       "url": "https://www.last.fm/music/Tame+Impala/_/Loser",
       "streamable": {
@@ -494,8 +494,8 @@
     {
       "name": "BRAND NEW CHANEL$",
       "duration": "238",
-      "playcount": "1985583",
-      "listeners": "114923",
+      "playcount": "2013250",
+      "listeners": "115783",
       "mbid": "785aca96-d89e-40d0-8d6d-0555f5b4edeb",
       "url": "https://www.last.fm/music/Slayyyter/_/BRAND+NEW+CHANEL$",
       "streamable": {
@@ -529,8 +529,8 @@
     {
       "name": "Creep",
       "duration": "235",
-      "playcount": "63523484",
-      "listeners": "4223149",
+      "playcount": "63536093",
+      "listeners": "4224102",
       "mbid": "012e70cd-4ef6-37bf-8ebf-02d318fe5151",
       "url": "https://www.last.fm/music/Radiohead/_/Creep",
       "streamable": {
@@ -563,9 +563,9 @@
     },
     {
       "name": "Boys",
-      "duration": "144",
-      "playcount": "389598",
-      "listeners": "71807",
+      "duration": "145",
+      "playcount": "408392",
+      "listeners": "73611",
       "mbid": "10013cf2-19a3-4a7b-bf39-72a350c03289",
       "url": "https://www.last.fm/music/AD%C3%89LA/_/Boys",
       "streamable": {
@@ -599,8 +599,8 @@
     {
       "name": "Lovers Rock",
       "duration": "213",
-      "playcount": "52916190",
-      "listeners": "2296864",
+      "playcount": "52927833",
+      "listeners": "2297725",
       "mbid": "0a12c26b-c3be-4c9e-a963-a8719f7f2dcc",
       "url": "https://www.last.fm/music/TV+Girl/_/Lovers+Rock",
       "streamable": {
@@ -634,8 +634,8 @@
     {
       "name": "505",
       "duration": "293",
-      "playcount": "60932678",
-      "listeners": "3156082",
+      "playcount": "60944418",
+      "listeners": "3156910",
       "mbid": "00d0985d-278e-4a72-b959-fc184a1ce990",
       "url": "https://www.last.fm/music/Arctic+Monkeys/_/505",
       "streamable": {
@@ -669,8 +669,8 @@
     {
       "name": "Duvet",
       "duration": "203",
-      "playcount": "43392111",
-      "listeners": "2124395",
+      "playcount": "43403670",
+      "listeners": "2125260",
       "mbid": "31f81ed3-432f-415b-8c7b-2822a61c8c42",
       "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet",
       "streamable": {
