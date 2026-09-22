@@ -8,26 +8,26 @@ Generated: 2026-09-22
 
 | Rank | Track | Artist | Listeners |
 |------|-------|--------|----------|
-| 1 | NICOLE KIDMAN | ADÉLA | 141626 |
-| 2 | Ain't In LA | ADÉLA | 218981 |
-| 3 | the cure | Olivia Rodrigo | 867097 |
-| 4 | Earrings | Malcolm Todd | 1183381 |
-| 5 | stupid song | Olivia Rodrigo | 748985 |
-| 6 | Stateside + Zara Larsson | PinkPantheress | 1443091 |
-| 7 | hate that i made you love me | Ariana Grande | 780192 |
-| 8 | expectations | Olivia Rodrigo | 587738 |
-| 9 | drop dead | Olivia Rodrigo | 927936 |
-| 10 | maggots for brains | Olivia Rodrigo | 609920 |
-| 11 | Oh Yeah? | Steve Lacy | 257365 |
-| 12 | CRANK 2 | Slayyyter | 73196 |
-| 13 | Creep | Radiohead | 4227684 |
-| 14 | KGB | ADÉLA | 300836 |
-| 15 | Loser | Tame Impala | 655582 |
-| 16 | 505 | Arctic Monkeys | 3160310 |
-| 17 | Lovers Rock | TV Girl | 2300984 |
-| 18 | BRAND NEW CHANEL$ | Slayyyter | 119421 |
-| 19 | Duvet | bôa | 2128715 |
-| 20 | Fame Is a Gun | Addison Rae | 1185949 |
+| 1 | Ain't In LA | ADÉLA | 222193 |
+| 2 | NICOLE KIDMAN | ADÉLA | 146449 |
+| 3 | the cure | Olivia Rodrigo | 868038 |
+| 4 | Earrings | Malcolm Todd | 1184766 |
+| 5 | stupid song | Olivia Rodrigo | 749751 |
+| 6 | Stateside + Zara Larsson | PinkPantheress | 1443795 |
+| 7 | hate that i made you love me | Ariana Grande | 780911 |
+| 8 | expectations | Olivia Rodrigo | 588360 |
+| 9 | drop dead | Olivia Rodrigo | 928422 |
+| 10 | maggots for brains | Olivia Rodrigo | 610428 |
+| 11 | Oh Yeah? | Steve Lacy | 259131 |
+| 12 | Creep | Radiohead | 4228515 |
+| 13 | KGB | ADÉLA | 302175 |
+| 14 | Loser | Tame Impala | 657037 |
+| 15 | CRANK 2 | Slayyyter | 75284 |
+| 16 | 505 | Arctic Monkeys | 3161181 |
+| 17 | Lovers Rock | TV Girl | 2301818 |
+| 18 | BRAND NEW CHANEL$ | Slayyyter | 120298 |
+| 19 | Duvet | bôa | 2129579 |
+| 20 | Fame Is a Gun | Addison Rae | 1186525 |
 
 
 ---
