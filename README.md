@@ -4,30 +4,30 @@ An autonomous framework that monitors global music trends using the Last.fm API.
 
 ## Latest Snapshot
 
-Generated: 2026-09-29
+Generated: 2026-09-30
 
 | Rank | Track | Artist | Listeners |
 |------|-------|--------|----------|
-| 1 | NICOLE KIDMAN | ADÉLA | 175507 |
-| 2 | Ain't In LA | ADÉLA | 240074 |
-| 3 | the cure | Olivia Rodrigo | 874259 |
-| 4 | Earrings | Malcolm Todd | 1192663 |
-| 5 | stupid song | Olivia Rodrigo | 754853 |
-| 6 | Patient Zero | Taylor Swift | 72802 |
-| 7 | Stateside + Zara Larsson | PinkPantheress | 1448248 |
-| 8 | Cleveland! | Taylor Swift | 62082 |
-| 9 | drop dead | Olivia Rodrigo | 931711 |
-| 10 | maggots for brains | Olivia Rodrigo | 613736 |
-| 11 | hate that i made you love me | Ariana Grande | 785681 |
-| 12 | Pink Clouding | Taylor Swift | 58100 |
-| 13 | expectations | Olivia Rodrigo | 591884 |
-| 14 | Babylon | Taylor Swift | 55551 |
-| 15 | Duvet | bôa | 2135364 |
-| 16 | Creep | Radiohead | 4233075 |
-| 17 | 505 | Arctic Monkeys | 3165962 |
-| 18 | Oh Yeah? | Steve Lacy | 267959 |
-| 19 | Loser | Tame Impala | 665261 |
-| 20 | BRAND NEW CHANEL$ | Slayyyter | 125662 |
+| 1 | NICOLE KIDMAN | ADÉLA | 179797 |
+| 2 | Ain't In LA | ADÉLA | 242761 |
+| 3 | the cure | Olivia Rodrigo | 875509 |
+| 4 | Earrings | Malcolm Todd | 1193917 |
+| 5 | Patient Zero | Taylor Swift | 77978 |
+| 6 | stupid song | Olivia Rodrigo | 755807 |
+| 7 | Cleveland! | Taylor Swift | 64988 |
+| 8 | Stateside + Zara Larsson | PinkPantheress | 1449062 |
+| 9 | drop dead | Olivia Rodrigo | 932380 |
+| 10 | Pink Clouding | Taylor Swift | 60490 |
+| 11 | maggots for brains | Olivia Rodrigo | 614413 |
+| 12 | hate that i made you love me | Ariana Grande | 786459 |
+| 13 | Babylon | Taylor Swift | 58041 |
+| 14 | expectations | Olivia Rodrigo | 592586 |
+| 15 | Duvet | bôa | 2136320 |
+| 16 | Creep | Radiohead | 4233859 |
+| 17 | 505 | Arctic Monkeys | 3166803 |
+| 18 | Loser | Tame Impala | 666502 |
+| 19 | Oh Yeah? | Steve Lacy | 269453 |
+| 20 | BRAND NEW CHANEL$ | Slayyyter | 126561 |
 
 
 ---
