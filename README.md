@@ -8,26 +8,26 @@ Generated: 2026-10-02
 
 | Rank | Track | Artist | Listeners |
 |------|-------|--------|----------|
-| 1 | NICOLE KIDMAN | ADÉLA | 187777 |
-| 2 | Ain't In LA | ADÉLA | 247904 |
-| 3 | the cure | Olivia Rodrigo | 877732 |
-| 4 | Patient Zero | Taylor Swift | 84228 |
-| 5 | stupid song | Olivia Rodrigo | 757614 |
-| 6 | Earrings | Malcolm Todd | 1196168 |
-| 7 | Cleveland! | Taylor Swift | 68787 |
-| 8 | drop dead | Olivia Rodrigo | 933632 |
-| 9 | Pink Clouding | Taylor Swift | 63651 |
-| 10 | maggots for brains | Olivia Rodrigo | 615741 |
-| 11 | Stateside + Zara Larsson | PinkPantheress | 1450358 |
-| 12 | Babylon | Taylor Swift | 61297 |
-| 13 | hate that i made you love me | Ariana Grande | 788063 |
-| 14 | expectations | Olivia Rodrigo | 594066 |
-| 15 | Duvet | bôa | 2138101 |
-| 16 | Melatonin | Tinashe | 73233 |
-| 17 | Creep | Radiohead | 4235344 |
-| 18 | BRAND NEW CHANEL$ | Slayyyter | 128460 |
-| 19 | 505 | Arctic Monkeys | 3168264 |
-| 20 | honeybee | Olivia Rodrigo | 675079 |
+| 1 | NICOLE KIDMAN | ADÉLA | 191737 |
+| 2 | Ain't In LA | ADÉLA | 250334 |
+| 3 | the cure | Olivia Rodrigo | 878847 |
+| 4 | Patient Zero | Taylor Swift | 86716 |
+| 5 | stupid song | Olivia Rodrigo | 758551 |
+| 6 | Earrings | Malcolm Todd | 1197250 |
+| 7 | Cleveland! | Taylor Swift | 70102 |
+| 8 | Pink Clouding | Taylor Swift | 64945 |
+| 9 | drop dead | Olivia Rodrigo | 934328 |
+| 10 | maggots for brains | Olivia Rodrigo | 616514 |
+| 11 | Babylon | Taylor Swift | 62508 |
+| 12 | Stateside + Zara Larsson | PinkPantheress | 1451043 |
+| 13 | Melatonin | Tinashe | 78724 |
+| 14 | expectations | Olivia Rodrigo | 595048 |
+| 15 | hate that i made you love me | Ariana Grande | 788902 |
+| 16 | SUNGLASSES | Tinashe | 57295 |
+| 17 | Too Easy | Tinashe | 122993 |
+| 18 | Duvet | bôa | 2139022 |
+| 19 | Crash Out | Tinashe | 96102 |
+| 20 | honeybee | Olivia Rodrigo | 675719 |
 
 
 ---
